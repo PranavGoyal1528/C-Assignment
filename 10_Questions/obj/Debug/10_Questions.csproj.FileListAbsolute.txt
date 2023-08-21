@@ -1,0 +1,8 @@
+C:\Users\kushw\source\repos\10_Questions\obj\Debug\10_Questions.csproj.AssemblyReference.cache
+C:\Users\kushw\source\repos\10_Questions\obj\Debug\10_Questions.csproj.SuggestedBindingRedirects.cache
+C:\Users\kushw\source\repos\10_Questions\obj\Debug\10_Questions.csproj.CoreCompileInputs.cache
+C:\Users\kushw\source\repos\10_Questions\bin\Debug\10_Questions.exe.config
+C:\Users\kushw\source\repos\10_Questions\bin\Debug\10_Questions.exe
+C:\Users\kushw\source\repos\10_Questions\bin\Debug\10_Questions.pdb
+C:\Users\kushw\source\repos\10_Questions\obj\Debug\10_Questions.exe
+C:\Users\kushw\source\repos\10_Questions\obj\Debug\10_Questions.pdb
